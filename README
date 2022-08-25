@@ -1,0 +1,12 @@
+In this project the developed software is a programme that takes as input a
+certain message in text, then applies an encryption algorithm and outputs 
+the encrypted message.
+
+codegenerator1.py contains functions for converting a list of characters into
+an indexed dictionary, one where the keys are numbers and the other where the
+keys are the symbols themselves.
+
+Afterwards the encrypted message may be decrypted back to the original.
+
+The encrypting may be adjusted using certain keys for each algorithm.
+At the moment there only exists 1 algorithm.
